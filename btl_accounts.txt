@@ -1,5 +1,3 @@
-email|password|workspace|apikey
-hiphoeski@digdig.org|Yiyik123.|auto-heski-4821|gw_auto-hes_f7d66c787de284265440a9a98e69503233a06ca9d1791aa7
-waydyegee@exdonuts.com|Yiyik123.|auto-test-5678|gw_auto-tes_5ccf7e9fa197cb0f62055947e8402faac0f51c33b95f72fd
-tugsetpry@f5.si|Yiyik123.|auto-test-1234|gw_auto-tes_9ec30ffab24aaccd3985376bd9576f56a93207544ba18f2e
-ayepeg210@merry.pink|Yiyik123.|workspace-test-001|padpigaim_key_placeholder
+hiphoeski@digdig.org|Yiyik123.|auto-heski-4821
+waydyegee@exdonuts.com|Yiyik123.|auto-test-5678
+tugsetpry@f5.si|Yiyik123.|auto-test-1234
